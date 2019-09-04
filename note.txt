@@ -1,3 +1,7 @@
 first coding in github
 second commit
 https://www.liaoxuefeng.com/wiki/896043488029600/898732864121440
+
+sudo apt-get install python-pip
+sudo pip install --no-cache-dir tensorflow==1.1.0
+
